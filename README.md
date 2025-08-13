@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/daniela-veloz">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=FFFFFF&multiline=true&width=500&height=80&lines=Daniela+Veloz;Staff+Software+Engineer;Full+Stack+Development+%7C+LLMs+%7C+GenAI+%7C+MLOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=FFFFFF&multiline=true&width=500&height=80&lines=Daniela+Veloz;Senior+Software+Engineer%26Engineering+Leader;Full+Stack+Development+%7C+LLMs+%7C+GenAI+%7C+MLOps" alt="Typing SVG" />
 </a>
 <br/><br/>
 
@@ -17,15 +17,16 @@
 
 ## 🚀 Open-Source Projects
 
-### 🤖 AI/ML Tools & Platforms
-|Title | Technologies|
+### 🤖 AI/ML Projects
+|Title | Description|
 |--|--|
-| [**llm_portfolio**](https://github.com/daniela-veloz/llm_portfolio) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![W&B](https://img.shields.io/badge/W&B-black?style=flat-square&logo=wandb) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+| [**llm_portfolio**](https://github.com/daniela-veloz/llm_portfolio) | Several Jupyter Notebooks with LLM projects
+| [**web_page_summarizer**](https://github.com/daniela-veloz/webpage-summarizer) | An intelligent web content summarization tool that extracts and condenses webpage information using advanced AI models.
+| [**adventure_weather_assistant**](https://github.com/daniela-veloz/adventure_weather_assistant) | An intelligent activity planning assistant that combines real-time weather data with local event information to suggest personalized activities.
 
 
 ## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniela-veloz&theme=dracula)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniela-veloz&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniela-veloz&theme=dracula)
