@@ -20,7 +20,7 @@
 ### 🤖 AI/ML Projects
 |Title | Description|
 |--|--|
-| [**llm_portfolio**](https://github.com/daniela-veloz/llm_portfolio) | Several Jupyter Notebooks with LLM projects
+| [**llm_notebooks**](https://github.com/daniela-veloz/llm_portfolio) | Several Jupyter Notebooks with LLM projects
 | [**web_page_summarizer**](https://github.com/daniela-veloz/webpage-summarizer) | An intelligent web content summarization tool that extracts and condenses webpage information using advanced AI models.
 | [**adventure_weather_assistant**](https://github.com/daniela-veloz/adventure_weather_assistant) | An intelligent activity planning assistant that combines real-time weather data with local event information to suggest personalized activities.
 
