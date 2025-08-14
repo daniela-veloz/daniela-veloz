@@ -16,10 +16,10 @@
   ### 🤖 AI/ML Projects
   | Title | Description | Key Technologies | Live Demo |
   |-------|-------------|------------------|-----------|
-  | [**Web Page Summarizer**](https://github.com/daniela-veloz/webpage-summarizer) | Intelligent web content summarization tool using advanced AI models | LLM, Prompt Engineering, Context Management | [link](https://huggingface.co/spaces/daniela-veloz/WebPageSummarizer)
-  | [**Adventure Weather Assistant**](https://github.com/daniela-veloz/adventure_weather_assistant) | Activity planning assistant combining real-time weather data with local events | Multi-Tool Orchestration, Conversation History, Context Injection | [link](https://huggingface.co/spaces/daniela-veloz/adventure_weather_assistant)
-  | [**Nutri-Care AI**](https://github.com/daniela-veloz/nutri_care_ai) | RAG-based nutrition chatbot with advanced retrieval and agentic workflows | RAG, ChromaDB, LangGraph, Memory Management, Content Moderation | [link](https://huggingface.co/spaces/daniela-veloz/nutri_care_ai)
-  | [**LLM Notebooks**](https://github.com/daniela-veloz/llm_portfolio) | Jupyter playground for LLM experimentation and learning | Prompt Engineering, Groundedness Scoring, Model Evaluation |  | 
+  | [**Web Page Summarizer**](https://github.com/daniela-veloz/webpage-summarizer) | Advanced prompt engineering to reduce hallucinations in summaries. Added context window management and robust content extraction pipelines to ensure reliable, consistent results . It's not just “a summary,” but one you can trust, including a TL;DR because everyone is busy.  | LLM, Prompt Engineering, Context Management | [link](https://huggingface.co/spaces/daniela-veloz/WebPageSummarizer)
+  | [**Adventure Weather Assistant**](https://github.com/daniela-veloz/adventure_weather_assistant) | Multi-tool orchestration combining real-time weather APIs with local event data. Supports conversation history and context injection for personalized travel & activity planning. Perfect for trip planning when you’re not sure what the weather will be, but still want to do something exciting! | Multi-Tool Orchestration, Conversation History, Context Injection | [link](https://huggingface.co/spaces/daniela-veloz/adventure_weather_assistant)
+  | [**Nutri-Care AI**](https://github.com/daniela-veloz/nutri_care_ai) | A RAG-based nutrition chatbot using ChromaDB for vector storage and LangGraph for agent workflows. Includes live evaluation, self-correction, and content moderation, because health advice must be accurate and safe. | RAG, ChromaDB, LangGraph, Memory Management, Content Moderation | [link](https://huggingface.co/spaces/daniela-veloz/nutri_care_ai)
+  | [**LLM Notebooks**](https://github.com/daniela-veloz/llm_portfolio) | Jupyter playground for LLM experimentation and learning | Prompt Engineering, Groundedness Scoring, Model Evaluation, etc |  | 
 
 
 ## Stats
