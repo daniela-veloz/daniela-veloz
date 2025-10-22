@@ -24,7 +24,7 @@
   ### Other Projects
   | Title | Description | Key Technologies | 
   |-------|-------------|------------------|
-  | [**WebSocketChat**](https://github.com/daniela-veloz/WebSocketChat) | Prototipe Chat using WebSockets  | Python(server), JavaScript(client) |
+  | [**WebSocketChat**](https://github.com/daniela-veloz/WebSocketChat) | Prototype Chat using WebSockets  | Python(server), JavaScript(client) |
 
 
 ## Stats
