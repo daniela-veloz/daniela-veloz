@@ -24,7 +24,7 @@
   ### Other Projects
   | Title | Description | Key Technologies | 
   |-------|-------------|------------------|
-  | [**WebSocketChat**](https://github.com/daniela-veloz/WebSocketChat) | Prototype Chat using WebSockets  | Python(server), Flask + JavaScript(client), sqlite persistance |
+  | [**WebSocketChat**](https://github.com/daniela-veloz/WebSocketChat) | Prototype Chat using WebSockets  | Python(server), Flask + JavaScript(client), sqlite(persistance) |
   | [**WebCrawler**](https://github.com/daniela-veloz/WebCrawler) | Prototype WebCrawler  | Python, asyncio, httpx, BeautifulSoup |
 
 
