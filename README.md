@@ -25,6 +25,7 @@
   | Title | Description | Key Technologies | 
   |-------|-------------|------------------|
   | [**WebSocketChat**](https://github.com/daniela-veloz/WebSocketChat) | Prototype Chat using WebSockets  | Python(server), JavaScript(client) |
+  | [**WebCrawler**](https://github.com/daniela-veloz/WebCrawler) | Prototype WebCrawler  | Python, asyncio, httpx, BeautifulSoup |
 
 
 ## Stats
