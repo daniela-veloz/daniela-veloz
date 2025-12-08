@@ -26,6 +26,7 @@
   |-------|-------------|------------------|
   | [**WebSocketChat**](https://github.com/daniela-veloz/WebSocketChat) | Prototype Chat using WebSockets  | Python(server), Flask + JavaScript(client), sqlite(persistance) |
   | [**WebCrawler**](https://github.com/daniela-veloz/WebCrawler) | Prototype WebCrawler  | Python, asyncio, httpx, BeautifulSoup |
+  | [**Go cshell**](https://github.com/daniela-veloz/gocshell) | custom Cshell | Go |
 
 
 ## Stats
